@@ -1,0 +1,7 @@
+#ifndef FANCU_CONFIG_H
+#define FANCU_CONFIG_H
+
+#define WIFI_SSID       "your-network"
+#define WIFI_PASS       "your-password"
+
+#endif //FANCU_CONFIG_H
